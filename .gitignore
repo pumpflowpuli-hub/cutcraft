@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.vendor/
+build/
+dist/
+testdata/
+downloads/
+cookies.netscape.txt
+demo/source.log
+demo/source_cut.*
+.pytest_cache/
